@@ -82,6 +82,7 @@
                 class="mr-4"
                 @click.stop="dialog = false"
               >
+                Create Evenet
               </v-btn>
             </v-form>
           </v-container>
@@ -168,7 +169,7 @@ export default {
     selectedElement: null,
     selectedOpen: false,
     currentlyEditing: null,
-    color: null,
+    color: 'default',
     end: null,
     start: null,
     details: null,
@@ -183,16 +184,6 @@ export default {
       'green',
       'orange',
       'grey darken-1',
-    ],
-    names: [
-      'Meeting',
-      'Holiday',
-      'PTO',
-      'Travel',
-      'Event',
-      'Birthday',
-      'Conference',
-      'Party',
     ],
   }),
 
