@@ -7,11 +7,11 @@
 
 > This calendar is a CRUD app implementation from the Vuetify 'Events Calendar'. I also implemented the dialog component for better user experience when dealing with event editing and creation. Finally, for the backend/DB management, I am using Firebase with async requests for fetching and posting data.
 
-![screenshot1](./src/assets/screenshots/screenshot01.png)
+![screenshot1](./src/assets/screenshot01.png)
 
-![screenshot1](./src/assets/screenshots/screenshot02.png)
+![screenshot1](./src/assets/screenshot02.png)
 
-![screenshot1](./src/assets/screenshots/screenshot03.png)
+![screenshot1](./src/assets/screenshot03.png)
 
 ## Built With
 
